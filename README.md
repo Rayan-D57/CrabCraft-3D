@@ -15,3 +15,5 @@ This project is a 3D engineering design of a crab model developed using Onshape 
 * Legs and Claws: Designed as separate parts with slots measuring 20mm long and 10mm wide to facilitate assembly.
 
 * Symmetry: The Mirror tool was used to ensure symmetry of the legs and claws on both sides of the body.
+  
+<img src="Crab" alt="Crab 3D" width="500"/>
